@@ -1,0 +1,6 @@
+{
+  "name": "Bé Học Bật và Tắt Máy Tính",
+  "description": "Ứng dụng mô phỏng trực quan sinh động giúp học sinh lớp 1 làm quen với bộ máy tính để bàn, học cách bật máy và tắt máy tính đúng quy trình.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
